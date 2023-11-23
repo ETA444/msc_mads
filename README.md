@@ -11,7 +11,7 @@ The visual and written reports that resulted from these analyses are showcased o
      - <a href="https://www.georgedreemer.com/academicwork/#msc-thesis-paper" target="_blank">Thesis Paper</a>
      - <a href="https://www.georgedreemer.com/academicwork/#msc-thesis-extra" target="_blank">Extra: Text Mining & Sentiment Analysis</a>
    - <a href="https://www.georgedreemer.com/academicwork/#premsc-thesis-paper" target="_blank">Pre-MSc​ Thesis​​​​​​ Paper</a>
-2. <a href="https://www.georgedreemer.com/academicwork/#analysis-result-reports" target="_blank">Analysis Result Reports</a><sup>(github folder: **analyses**)</sup>
+2. <a href="https://www.georgedreemer.com/academicwork/#analysis-result-reports" target="_blank">Analysis Result Reports</a> <sup>(github folder: **analyses**)</sup>
    - <a href="https://www.georgedreemer.com/academicwork/#visual-reports" target="_blank">Visual Reports</a>
      - <a href="https://www.georgedreemer.com/academicwork/#text-mining" target="_blank">Text Mining, Sentiment & Propensity</a>
      - <a href="https://www.georgedreemer.com/academicwork/#google-analytics" target="_blank">Google Analytics & Exploratory Analysis (Wehkamp)</a>
