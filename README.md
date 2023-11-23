@@ -5,13 +5,13 @@ The visual and written reports that resulted from these analyses are showcased o
 
 **For ease of access, every section below links directly to the respective report file on the website. There you are able to view it in your browser or download it to your computer.** The folders in this repository also follow the same structure so you can easily find the programming behind every report.
 
-1. <a href="https://www.georgedreemer.com/academicwork/#theses" target="_blank">MSc & Pre-MSc Theses</a>
+1. <a href="https://www.georgedreemer.com/academicwork/#theses" target="_blank">MSc & Pre-MSc Theses</a> <sup>(github folder: **theses**)</sup>
    - <a href="https://www.georgedreemer.com/academicwork/#msc-thesis" target="_blank">MSc Thesis</a>
      - <a href="https://www.georgedreemer.com/academicwork/#msc-thesis-slides" target="_blank">Thesis Defence Slides</a>
      - <a href="https://www.georgedreemer.com/academicwork/#msc-thesis-paper" target="_blank">Thesis Paper</a>
      - <a href="https://www.georgedreemer.com/academicwork/#msc-thesis-extra" target="_blank">Extra: Text Mining & Sentiment Analysis</a>
    - <a href="https://www.georgedreemer.com/academicwork/#premsc-thesis-paper" target="_blank">Pre-MSc​ Thesis​​​​​​ Paper</a>
-2. <a href="https://www.georgedreemer.com/academicwork/#analysis-result-reports" target="_blank">Analysis Result Reports</a>
+2. <a href="https://www.georgedreemer.com/academicwork/#analysis-result-reports" target="_blank">Analysis Result Reports</a><sup>(github folder: **analyses**)</sup>
    - <a href="https://www.georgedreemer.com/academicwork/#visual-reports" target="_blank">Visual Reports</a>
      - <a href="https://www.georgedreemer.com/academicwork/#text-mining" target="_blank">Text Mining, Sentiment & Propensity</a>
      - <a href="https://www.georgedreemer.com/academicwork/#google-analytics" target="_blank">Google Analytics & Exploratory Analysis (Wehkamp)</a>
